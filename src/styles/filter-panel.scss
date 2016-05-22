@@ -1,0 +1,13 @@
+#filter-panel{
+  background-color: #ccc;
+  padding: 20px 0;
+
+  .input-group{
+    margin-bottom: 10px;
+  }
+
+  .dropdown-menu{
+    max-height: 192px;
+    overflow-y: scroll;
+  }
+}
