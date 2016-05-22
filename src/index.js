@@ -28,7 +28,7 @@ const config = {
       }
   ],
   searchKeys: ['name'],
-  sortItems: [
+  sortItems: [  
     {
       title: 'by name',
       fn: (items) => {
